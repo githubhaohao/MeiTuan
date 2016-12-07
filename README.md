@@ -13,7 +13,7 @@ MeiTuan client for react native
 ![img2](https://github.com/githubhaohao/MeiTuan/blob/master/gif/img2.gif)
 ![img3](https://github.com/githubhaohao/MeiTuan/blob/master/gif/img3.gif)
 # License
-Copyright 2016 DevNews
+Copyright 2016 (c) GithubHaohao
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
