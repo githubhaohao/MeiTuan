@@ -4,10 +4,10 @@ MeiTuan client for react native
 - Android:[Download Apk](https://github.com/githubhaohao/MeiTuan/raw/master/gif/meituan.apk)
 - iOS:TBD
 # Set up 
-####1. git clone https://github.com/githubhaohao/MeiTuan.git
-####2. cd MeiTuan
-####3. npm install
-####4. react native run-android
+1. git clone https://github.com/githubhaohao/MeiTuan.git
+2. cd MeiTuan
+3. npm install
+4. react native run-android
 # Gif
 ![img1](https://github.com/githubhaohao/MeiTuan/blob/master/gif/img1.gif)
 ![img2](https://github.com/githubhaohao/MeiTuan/blob/master/gif/img2.gif)
