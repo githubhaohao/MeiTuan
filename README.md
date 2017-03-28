@@ -1,8 +1,8 @@
 # React Native MeiTuan
 MeiTuan client for react native
 # Demo
-####Android:[Download Apk](https://github.com/githubhaohao/MeiTuan/raw/master/gif/meituan.apk)
-####iOS:TBD
+- Android:[Download Apk](https://github.com/githubhaohao/MeiTuan/raw/master/gif/meituan.apk)
+- iOS:TBD
 # Set up 
 ####1. git clone https://github.com/githubhaohao/MeiTuan.git
 ####2. cd MeiTuan
